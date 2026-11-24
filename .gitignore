@@ -1,0 +1,8 @@
+.env
+.venv/
+dumps/
+shopping.db
+__pycache__/
+promo_report.txt
+logging.log
+*_cookies.txt

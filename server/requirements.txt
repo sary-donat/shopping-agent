@@ -1,0 +1,8 @@
+anthropic>=2.12
+langgraph>=1.2
+langsmith>=0.16
+pydantic>=2.10
+python-dotenv>=1.0
+il-supermarket-scraper>=1.0.8
+pip-system-certs>=5.0
+requests>=2.32
